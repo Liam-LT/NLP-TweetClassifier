@@ -13,7 +13,7 @@ TweetClassifier is a research initiative exploring the feasibility of deducing d
 ## Partner
 
 Gratitude is extended to Intuition Intelligence Inc. and San Francisco State University, with a special nod to Prof. Cheung & Ozsen, for their invaluable contributions to this exploratory study.
-- [Dr. Leyla Ozsen](https://www.linkedin.com/in/leyla-ozsen-9424a33/)
+- [Dr. Leyla Ozsen](https://cob.sfsu.edu/directory/leyla-ozsen)
 - [Dr. Rex Cheung](https://cob.sfsu.edu/directory/rex-cheung)
 
 ## Technologies and Methods
